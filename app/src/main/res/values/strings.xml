@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpaceDodgers</string>
+    <string name="lives">50</string>
+</resources>

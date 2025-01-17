@@ -1,0 +1,11 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"> <!-- Set to true if you want the animation to play only once -->
+    <item android:drawable="@drawable/frame1" android:duration="100" />
+    <item android:drawable="@drawable/frame2" android:duration="100" />
+    <item android:drawable="@drawable/frame3" android:duration="100" />
+    <item android:drawable="@drawable/frame4" android:duration="100" />
+    <item android:drawable="@drawable/frame5" android:duration="100" />
+    <item android:drawable="@drawable/frame6" android:duration="100" />
+    <item android:drawable="@drawable/frame7" android:duration="100" />
+    <!-- Add more frames as needed -->
+</animation-list>

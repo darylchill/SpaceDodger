@@ -40,7 +40,7 @@ Pilot your spacecraft through an endless field of asteroids. Quick reflexes and 
 ---
 
 ### Screenshots  
-![Main Menu]([https://via.placeholder.com/400x300?text=Main+Menu](https://github.com/darylchill/SpaceDodger/blob/main/Screenshot%202025-01-17%20153601.png))  
+ <p align="center"><a href="#" target="_blank"><img src="https://github.com/darylchill/SpaceDodger/blob/main/Screenshot%202025-01-17%20153601.png" width="400" alt="Ticketing System Logo" class='logo' style='mix-blend-mode:multiply'></a></p>
 *The minimalist main menu*  
 
 ![In-Game]([https://via.placeholder.com/400x300?text=In-Game](https://github.com/darylchill/SpaceDodger/blob/main/Screenshot%202025-01-17%20153624.png))  

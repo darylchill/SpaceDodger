@@ -1,3 +1,4 @@
+ <p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/darylchill/SpaceDodger/refs/heads/main/app/src/main/res/drawable/space_ship_normal.png" width="400" alt="Ticketing System Logo" class='logo' style='mix-blend-mode:multiply'></a></p>
 # Space Dodger
 
 **Space Dodger** is an Android game I built from the ground up during my college days as a project requirement. It’s a nostalgic tribute to the retro classics that inspired me, combining the excitement of dodging challenges with a minimalist design.  
